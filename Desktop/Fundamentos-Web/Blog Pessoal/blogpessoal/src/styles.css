@@ -3,3 +3,12 @@ html
 {
     scroll-behavior: smooth ;
 }
+.letraGrande{
+    font-size: 54pt;
+
+}
+
+.letraGrande18{
+
+    font-size: 18pt;
+}
